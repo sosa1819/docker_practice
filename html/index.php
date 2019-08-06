@@ -21,37 +21,37 @@
             <li>血液型　b型</li>
             <li><a href="#">プロフィール</a></li>
         </ul>
-    <section id="contact"  class="width-200">
-    　<span> If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.
-        <div>mail: <a href="mailto:chibanaoya001@gamil.com">chibanaoya001@gmail.com</a></div>
-</section>
-<section id="address">
-    <div>所属：</div>
-    <div>オフィス　エンスペース</div>
-    <div>980-9999</div>
-    <div>宮城県仙台市青葉区国分町1-1-1</div>
-    <div>TEL: 022-1234-5678</div>
-    <div>FAX: 022-1234-5678</div>
+        <section id="contact" class="width-200">
+            　<span> If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.
+                <div>mail: <a href="mailto:chibanaoya001@gamil.com">chibanaoya001@gmail.com</a></div>
+        </section>
+        <section id="address">
+            <div>所属：</div>
+            <div>オフィス　エンスペース</div>
+            <div>980-9999</div>
+            <div>宮城県仙台市青葉区国分町1-1-1</div>
+            <div>TEL: 022-1234-5678</div>
+            <div>FAX: 022-1234-5678</div>
 
 
-</section>
-<section id="history">
-    <h3>★★★　更新情報　★★★　</h3>
-    <article>
-        <h4>舞台</h4>
-        <div>そろそろ暑くなってきたなぁ</div>
-    </article>
-    <article>
-        <h4>TV</h4>
-        <div>最近面白いテレビないなぁ</div>
-    </article>
-    <article>
-        <h4>映画</h4>
-        <div>映画は面白かった。阿部寛じゃないけど。</div>
-    </article>
-</section>
+        </section>
+        <section id="history">
+            <h3>★★★　更新情報　★★★　</h3>
+            <article>
+                <h4>舞台</h4>
+                <div>そろそろ暑くなってきたなぁ</div>
+            </article>
+            <article>
+                <h4>TV</h4>
+                <div>最近面白いテレビないなぁ</div>
+            </article>
+            <article>
+                <h4>映画</h4>
+                <div>映画は面白かった。阿部寛じゃないけど。</div>
+            </article>
+        </section>
 
-</section>
+    </section>
 
 </body>
 
