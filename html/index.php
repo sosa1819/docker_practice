@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ja">
 
 <head>
     <meta charset="UTF-8">
@@ -13,18 +13,19 @@
     <header>
         <h1>ソサのホームページ</h1>
     </header>
-    <section><img src="/images/profile.png" alt="自画像">
+    <section id="profile">
+        <img src="/images/profile.png" alt="自画像">
         <ul>
             <li>千葉直矢</li>
             <li>生年月日　1994年5月10日</li>
             <li>血液型　b型</li>
             <li><a href="#">プロフィール</a></li>
         </ul>
-    <section class="contact-message">
+    <section id="contact"  class="contact-message">
     　<span> If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.
         <div>mail: <a href="mailto:chibanaoya001@gamil.com">chibanaoya001@gmail.com</a></div>
 </section>
-<section>
+<section id="address">
     <div>所属：</div>
     <div>オフィス　エンスペース</div>
     <div>980-9999</div>
@@ -34,7 +35,7 @@
 
 
 </section>
-<section>
+<section id="history">
     <h3>★★★　更新情報　★★★　</h3>
     <article>
         <h4>舞台</h4>
