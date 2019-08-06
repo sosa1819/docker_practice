@@ -14,14 +14,14 @@
         <h1>ソサのホームページ</h1>
     </header>
     <section id="profile">
-        <img src="/images/profile.png" alt="自画像">
+        <img src="/images/profile.png" alt="自画像" class="width-200">
         <ul>
             <li>千葉直矢</li>
             <li>生年月日　1994年5月10日</li>
             <li>血液型　b型</li>
             <li><a href="#">プロフィール</a></li>
         </ul>
-    <section id="contact"  class="contact-message">
+    <section id="contact"  class="width-200">
     　<span> If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.
         <div>mail: <a href="mailto:chibanaoya001@gamil.com">chibanaoya001@gmail.com</a></div>
 </section>
