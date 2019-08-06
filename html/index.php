@@ -11,6 +11,13 @@
  <header>
      <h1>ソサのホームページ</h1>
  </header>
- <section><img src="/images/profile.png" alt="自画像"></section>
+ <section><img src="/images/profile.png" alt="自画像">
+<ul>
+    <li>千葉直矢</li>
+    <li>生年月日　1994年5月10日</li>
+    <li>血液型　b型</li>
+    <li><a href="#">プロフィール</a></li>
+</ul>
+</section>
 </body>
 </html>
