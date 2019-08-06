@@ -32,7 +32,22 @@
     <div>TEL: 022-1234-5678</div>
     <div>FAX: 022-1234-5678</div>
 
-    
+
+</section>
+<section>
+    <h3>★★★　更新情報　★★★　</h3>
+    <article>
+        <h4>舞台</h4>
+        <div>そろそろ暑くなってきたなぁ</div>
+    </article>
+    <article>
+        <h4>TV</h4>
+        <div>最近面白いテレビないなぁ</div>
+    </article>
+    <article>
+        <h4>映画</h4>
+        <div>映画は面白かった。阿部寛じゃないけど。</div>
+    </article>
 </section>
 
 </section>
