@@ -22,3 +22,9 @@ section ul {
     flex-direction: row;
     flex-wrap: nowrap;
 }
+
+ #history article {
+       border-top: solid 1px red;
+       border-bottom: solid 1px gray;
+       margin-top: -1px;
+    }
