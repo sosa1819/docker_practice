@@ -24,13 +24,12 @@
                     <li><a href="#">プロフィール</a></li>
                 </ul>
             </section>
-            <!-- <section id="contact" class="width-200"> -->
-            <section id="contact">
+            <section id="contact"  class="section-space" >
                 <div class="width-200" >
                     If you have any enquiries regarding my TV drama or film, or would like to make an enquiry concerning future projects, please do not hesitate to contact me through the following email address.</div>
                 <div>mail: <a href="mailto:chibanaoya001@gamil.com">chibanaoya001@gmail.com</a></div>
             </section>
-            <section id="address">
+            <section id="address" class="section-space">
                 <div>所属：</div>
                 <div>オフィス　エンスペース</div>
                 <div>980-9999</div>
