@@ -34,6 +34,7 @@
                 <div>オフィス　エンスペース</div>
                 <div>980-9999</div>
                 <div>宮城県仙台市青葉区国分町1-1-1</div>
+                <div>mail: <a href="mailto:chibanaoya001@gamil.com">chibanaoya001@gmail.com</a></div>
                 <div>TEL: 022-1234-5678</div>
                 <div>FAX: 022-1234-5678</div>
 
@@ -41,7 +42,7 @@
             </section>
 
 
-
+            
 
 
         </div>
@@ -50,7 +51,8 @@
                 <h3>★★★　更新情報　★★★　</h3>
                 <article>
                     <h4>舞台</h4>
-                    <div>そろそろ暑くなってきたなぁ</div>
+                    <div>そろそろ暑くなってきたなぁ <span class="new">new</span>   </div>
+                    
                 </article>
                 <article>
                     <h4>TV</h4>
