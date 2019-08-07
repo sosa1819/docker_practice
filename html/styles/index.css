@@ -22,6 +22,10 @@ section ul {
     flex-direction: row;
     flex-wrap: nowrap;
 }
+#content- left {
+        flex-grow: 2;
+}
+
 
 #history h3 {
         text-align: center;
